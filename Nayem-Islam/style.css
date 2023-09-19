@@ -1,0 +1,58 @@
+section.hero{
+    height: 100vh;
+    background: linear-gradient(0deg, rgba(53,53,53, .7), rgba(53,53,53,.7)), url(/img1.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Roboto', sans-serif;
+}
+.hero-wrap{
+    
+}
+.hero-wrap h5{
+    font-size: 20px;
+}
+.hero-btn{
+  
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.read-more-btn{
+    background-color: aqua;
+    padding: 10px;
+    margin-left: 20px;
+    
+    
+}
+.free-more-btn{
+    background-color: brown;
+    padding: 10px;
+    margin-left: 20px;
+    
+}
+.free-more-btn a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.read-more-btn a{
+    text-decoration: none;
+    padding: 10px 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
